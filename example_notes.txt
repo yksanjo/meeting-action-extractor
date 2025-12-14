@@ -1,0 +1,16 @@
+Meeting Notes - Sprint Planning
+Date: 2024-01-15
+
+Attendees: Sarah, John, Dev Team
+
+Action Items:
+- @sarah to finalize API spec by Friday
+- @dev team to investigate latency issues in the payment module
+- John will update the documentation by next week
+- Sarah should review the PR #123 before EOD
+- @qa team to run regression tests by Wednesday
+- Unassigned: Need to update the deployment scripts
+
+Follow-ups:
+- Check with product team about feature priorities
+- Schedule demo for stakeholders
